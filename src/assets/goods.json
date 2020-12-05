@@ -1,0 +1,18 @@
+{
+    "goods": [
+        {
+            "goodTttle": "Huawei Mate 40 pro",
+            "goodPrice" :"30000"
+        },
+
+        {
+            "goodTttle": "Xiaomi Redmi note 9 pro",
+            "goodPrice" :"7000"
+        },
+
+        {
+            "goodTttle": "Samsung Galaxy 21 FE",
+            "goodPrice" : "20000"
+        }
+    ]
+}
